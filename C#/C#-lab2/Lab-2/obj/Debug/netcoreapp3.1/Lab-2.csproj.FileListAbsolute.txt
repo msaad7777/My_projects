@@ -1,0 +1,14 @@
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\Lab-2\Lab-2\obj\Debug\netcoreapp3.1\Lab-2.csproj.AssemblyReference.cache
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\Lab-2\Lab-2\obj\Debug\netcoreapp3.1\Lab-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\Lab-2\Lab-2\obj\Debug\netcoreapp3.1\Lab-2.AssemblyInfoInputs.cache
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\Lab-2\Lab-2\obj\Debug\netcoreapp3.1\Lab-2.AssemblyInfo.cs
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\Lab-2\Lab-2\obj\Debug\netcoreapp3.1\Lab-2.csproj.CoreCompileInputs.cache
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\Lab-2\Lab-2\bin\Debug\netcoreapp3.1\Lab-2.exe
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\Lab-2\Lab-2\bin\Debug\netcoreapp3.1\Lab-2.deps.json
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\Lab-2\Lab-2\bin\Debug\netcoreapp3.1\Lab-2.runtimeconfig.json
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\Lab-2\Lab-2\bin\Debug\netcoreapp3.1\Lab-2.runtimeconfig.dev.json
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\Lab-2\Lab-2\bin\Debug\netcoreapp3.1\Lab-2.dll
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\Lab-2\Lab-2\bin\Debug\netcoreapp3.1\Lab-2.pdb
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\Lab-2\Lab-2\obj\Debug\netcoreapp3.1\Lab-2.dll
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\Lab-2\Lab-2\obj\Debug\netcoreapp3.1\Lab-2.pdb
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\Lab-2\Lab-2\obj\Debug\netcoreapp3.1\Lab-2.genruntimeconfig.cache
