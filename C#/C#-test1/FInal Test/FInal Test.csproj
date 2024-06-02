@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>FInal_Test</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\Data Engineering\Centennial College-AI &amp; ML\C#-Programming\Test-2\301313784.cs" Link="301313784.cs" />
+  </ItemGroup>
+
+</Project>

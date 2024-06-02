@@ -1,0 +1,14 @@
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\FInal Test\FInal Test\obj\Debug\netcoreapp3.1\FInal Test.csproj.AssemblyReference.cache
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\FInal Test\FInal Test\obj\Debug\netcoreapp3.1\FInal Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\FInal Test\FInal Test\obj\Debug\netcoreapp3.1\FInal Test.AssemblyInfoInputs.cache
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\FInal Test\FInal Test\obj\Debug\netcoreapp3.1\FInal Test.AssemblyInfo.cs
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\FInal Test\FInal Test\obj\Debug\netcoreapp3.1\FInal Test.csproj.CoreCompileInputs.cache
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\FInal Test\FInal Test\bin\Debug\netcoreapp3.1\FInal Test.exe
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\FInal Test\FInal Test\bin\Debug\netcoreapp3.1\FInal Test.deps.json
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\FInal Test\FInal Test\bin\Debug\netcoreapp3.1\FInal Test.runtimeconfig.json
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\FInal Test\FInal Test\bin\Debug\netcoreapp3.1\FInal Test.runtimeconfig.dev.json
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\FInal Test\FInal Test\bin\Debug\netcoreapp3.1\FInal Test.dll
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\FInal Test\FInal Test\bin\Debug\netcoreapp3.1\FInal Test.pdb
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\FInal Test\FInal Test\obj\Debug\netcoreapp3.1\FInal Test.dll
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\FInal Test\FInal Test\obj\Debug\netcoreapp3.1\FInal Test.pdb
+D:\Data Engineering\Centennial College-AI & ML\C#-Programming\FInal Test\FInal Test\obj\Debug\netcoreapp3.1\FInal Test.genruntimeconfig.cache
