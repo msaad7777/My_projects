@@ -1,4 +1,0 @@
-﻿Build started...
-1>------ Build started: Project: Lab-2, Configuration: Debug Any CPU ------
-1>Lab-2 -> D:\Data Engineering\Centennial College-AI & ML\C#-Programming\Lab-2\Lab-2\bin\Debug\netcoreapp3.1\Lab-2.dll
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
